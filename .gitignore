@@ -1,0 +1,44 @@
+cat > .gitignore << 'EOF'
+# Model files
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Generated outputs
+output.png
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.spyproject/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large datasets
+data/
+datasets/
+cache/
+EOF
