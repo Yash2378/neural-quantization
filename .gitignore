@@ -6,12 +6,6 @@ cat > .gitignore << 'EOF'
 *.pt
 *.pth
 
-# Generated outputs
-output.png
-*.png
-*.jpg
-*.jpeg
-
 # Python
 __pycache__/
 *.pyc
