@@ -88,9 +88,9 @@ Understanding what already exists:
 ## 📈 Research Log
 
 ### Recent Updates
-- **2025-01**: Started comprehensive literature review
-- **2025-01**: Removed misleading performance claims and fake demos
-- **2025-01**: Committed to transparent research process
+- **2025-08**: Started comprehensive literature review
+- **2025-08**: Removed misleading performance claims and fake demos
+- **2025-08**: Committed to transparent research process
 
 ### Lessons Learned
 - **Cascade Quantization**: Initial hypothesis about multi-stage benefits appears flawed based on information theory
@@ -109,7 +109,7 @@ Understanding what already exists:
 
 For research collaboration or questions about the learning process:
 - **GitHub Issues**: For technical discussions
-- **Email**: [research contact] (no promotional claims, research only)
+- **Email**: yashdarji2378@gmail.com (no promotional claims, research only)
 
 ## 📄 Academic Honesty
 
